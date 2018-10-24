@@ -1,0 +1,13 @@
+{
+  "name": "JBoosStars",
+  "version": "1.0.0",
+  "description": "simple telegram bot to get the Stars from the repo of JBoos",
+  "main": "main.js",
+  "author": "indmind",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.1.0",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
